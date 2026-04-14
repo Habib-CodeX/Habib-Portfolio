@@ -149,7 +149,7 @@ export default function Home() {
             </div>
           </div>
 
-          <form action="https://formspree.io/f/itsmasoom9190@gmail.com" method="POST" className="space-y-4 md:space-y-6">
+          <form action="https://formspree.io/f/mqewalbb" method="POST" className="space-y-4 md:space-y-6">
             <input type="text" name="name" placeholder="YOUR NAME" required className="w-full bg-[#111] border border-white/5 p-4 rounded-xl md:rounded-2xl focus:border-blue-500 outline-none transition text-sm tracking-widest text-white" />
             <input type="email" name="email" placeholder="YOUR EMAIL" required className="w-full bg-[#111] border border-white/5 p-4 rounded-xl md:rounded-2xl focus:border-blue-500 outline-none transition text-sm tracking-widest text-white" />
             <textarea name="message" rows={4} placeholder="YOUR MESSAGE" required className="w-full bg-[#111] border border-white/5 p-4 rounded-xl md:rounded-2xl focus:border-blue-500 outline-none transition text-sm tracking-widest text-white"></textarea>
